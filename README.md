@@ -1,3 +1,3 @@
-# cubit_demo
+# bloc_demo
 
-Simple app using Cubit class of bloc version 6.1.1
+Simple app using BLoC 6.1.1
